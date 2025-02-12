@@ -20,7 +20,7 @@ Usage 🚀
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/Hospital_DB.git
+git clone https://github.com/abdo7amdy/Hospital_DB.git
 2️⃣ Import the database schema into your SQL environment.
 3️⃣ Run predefined queries to manage hospital records.
 
